@@ -1,2 +1,2 @@
-# Practice
+# Boost up desktop
 Учебный проект
